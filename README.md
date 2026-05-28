@@ -109,19 +109,6 @@ SBA-Loan-Default-Prediction/
 └── README.md
 ```
 
-## My Contributions
-
-This was completed as an academic machine learning project. My major contributions included:
-
-* Cleaning and preparing SBA loan data for modeling
-* Engineering business-ratio and loan-level features
-* Applying leakage-safe preprocessing and encoding
-* Building and tuning XGBoost classification models
-* Evaluating model performance using AUCPR and macro-F1
-* Optimizing the classification threshold
-* Interpreting model behavior using SHAP and error analysis
-* Preparing the scoring workflow and final prediction output
-
 ## How to Run
 
 1. Clone the repository.
