@@ -1,0 +1,18 @@
+{
+  "params": {
+    "colsample_bytree": 0.8,
+    "gamma": 0,
+    "learning_rate": 0.05,
+    "max_bin": 256,
+    "max_depth": 8,
+    "min_child_weight": 3,
+    "n_estimators": 500,
+    "reg_alpha": 0.1,
+    "reg_lambda": 3,
+    "scale_pos_weight": 2.35,
+    "subsample": 0.6,
+    "tree_method": "hist"
+  },
+  "num_boost_round": 500,
+  "macro_f1_threshold": 0.5199999999999999
+}

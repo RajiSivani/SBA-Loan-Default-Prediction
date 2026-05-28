@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+.DS_Store
+Thumbs.db
+data/
+*.csv
+!outputs/submission_final_v1.csv
